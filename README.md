@@ -76,3 +76,4 @@ Siga as instruções que aparecerem no terminal, pois alguns exercícios podem s
 * A pasta `node_modules/` é automaticamente ignorada pelo Git através do arquivo `.gitignore` e não deve ser enviada para o repositório remoto.
 * Certifique-se de ter seguido todos os passos de configuração para garantir a correta execução dos exercícios.
 * Em caso de dúvidas ou problemas, fique a vontade para entrar em contato comigo.
+# formacao-fullstack--PraTi
